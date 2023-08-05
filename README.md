@@ -1,1 +1,1 @@
-This repository is about vagrant, it will be updated later
+This repository is about how to install vagrant in your local machine, it will be updated soon.
